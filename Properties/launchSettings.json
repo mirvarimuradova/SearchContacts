@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SearchContacts": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
